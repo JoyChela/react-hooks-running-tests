@@ -1,9 +1,9 @@
 import React from "react";
 
-function Article() {
+
+const Article = () => {
   return (
     <div>please pass this test</div>
   );
 }
-
-export default Article;
+ export default Article;
